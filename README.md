@@ -16,15 +16,15 @@ This sample demonstrates how to set up a basic Nginx web server within a Docker 
 
 (As you add more samples, list them in a similar format below.)
 
-## 2. [Sample Name]
+## 2. Nginx Basic-Dynamic Configuration
 
 Description of the sample.
 
-- **Directory**: `sample-directory-name`
+- **Directory**: `basic-dynamic-next`
 - **Key Features**:
-  - Feature 1
-  - Feature 2
-- [Detailed README](./sample-directory-name/README.md)
+  - Docker-based setup
+  - Simple Nginx configuration for dynamic content
+- [Detailed README](./basic-dynamic-next/README.md)
 
 ---
 
